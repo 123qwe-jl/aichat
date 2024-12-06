@@ -14,4 +14,4 @@ streamlit run aichat.py
 ```
 浏览器打开
   Local URL: [http://localhost:8501](http://localhost:8501)
-  Network URL: http://youripaddr:8501
+  Network URL: `http://youripaddr:8501`
